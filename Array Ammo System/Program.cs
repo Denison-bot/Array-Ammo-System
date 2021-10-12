@@ -18,7 +18,7 @@ namespace Array_Ammo_System
 
         static void Main(string[] args)
         {
-            int weapon = 1; //current weapon
+            int weapon = 2; //current weapon
 
             void Fire()
             {
